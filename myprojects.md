@@ -1,3 +1,4 @@
+
 layout: page
 title: "Personal-Projects"
 permalink: /myprojects
@@ -7,7 +8,7 @@ permalink: /myprojects
 &ensp; &ensp; This project was my capstone project for my Bachelors degree. It spanned
 the whole spring semester, where me and my 3 other teammates diligently worked to
 develop both the game engine and interface in C++, which was a relatively new language
-for the majority of us. It includes the follwing:
+for the majority of us. It includes the following:
 - Developed using QT (c++) tools
 - Objected-Oriented class hierarchies
 - Complex functions and algorithms used for gameplay
@@ -15,9 +16,9 @@ for the majority of us. It includes the follwing:
 
 The following images show the interfaces for the game:
 
-![alt text](pics/3dchesstitle.jpg)
+![alt text](resources/3dchesstitle.jpg)
 
-![alt text](pics/3dchessgame.jpg)
+![alt text](resources/3dchessgame.jpg)
 
 ---
 
